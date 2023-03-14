@@ -1,9 +1,10 @@
 # Dockerfile
 
 # Script       : VidPhisher
-# Author       : Augustine Tilo
-# Github       : https://github.com/crithinker
-# Email        : lifeofacriticalthinker@gmail.com
+# Author       : KasRoudra
+# Github       : https://github.com/KasRoudra
+# Messenger    : https://m.me/KasRoudra
+# Email        : kasroudrakrd@gmail.com
 # Date         : 05-06-2022
 # Main Language: Shell
 
@@ -13,7 +14,7 @@
 FROM debian:latest
 
 # Author info
-LABEL MAINTAINER="https://github.com/crithinker/VidPhisher"
+LABEL MAINTAINER="https://github.com/KasRoudra/VidPhisher"
 
 # Working directory
 WORKDIR /VidPhisher/
@@ -32,6 +33,6 @@ CMD ["./vp.sh", "--no-update"]
 
 ## Wanna run it own? Try following commnads:
 
-## "sudo docker build . -t crithinker/vidphisher:latest", "sudo docker run --rm -it crithinker/vidphisher:latest"
+## "sudo docker build . -t kasroudra/vidphisher:latest", "sudo docker run --rm -it kasroudra/vidphisher:latest"
 
-## "sudo docker pull crithinker/vidphisher", "sudo docker run --rm -it crithinker/vidphisher"
+## "sudo docker pull kasroudra/vidphisher", "sudo docker run --rm -it kasroudra/vidphisher"
