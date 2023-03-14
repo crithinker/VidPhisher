@@ -2,7 +2,7 @@
 
 # ip.php by KasRoudra
 # Author   : KasRoudra
-# Github   : https://github.com/KasRoudra
+# Github   : https://github.com/crithinker
 # Email    : kasroudrard@gmail.com
 # Messenger: https//m.me/KasRoudra
 # Date     : 5-09-2021
