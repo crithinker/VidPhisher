@@ -4,7 +4,7 @@
 # Version    : 1.2
 # Description: VidPhisher is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her video will be captured!
 # Author     : KasRoudra
-# Github     : https://github.com/crithinker
+# Github     : https://github.com/KasRoudra
 # Email      : kasroudrakrd@gmail.com
 # Credits    : TechChipNet, RecordRTC
 # Date       : 05-06-2022
@@ -124,7 +124,7 @@ ${cyan} \ \ / /| |/ _' | |_) | '_ \| / __| '_ \ / _ \ '__|
 ${purple}  \ V / | | (_| |  __/| | | | \__ \ | | |  __/ | 
 ${yellow}   \_/  |_|\__,_|_|   |_| |_|_|___/_| |_|\___|_| 
 ${red}                                          [v${version}] 
-${blue}                                  [By KasRoudra AugustineTilo] 
+${blue}                                  [By KasRoudra] 
 "
 
 ngrok_help="
