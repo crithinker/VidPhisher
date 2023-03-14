@@ -6,12 +6,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2-blue?style=for-the-badge&color=blue">
-   <img src="https://img.shields.io/github/stars/KasRoudra/VidPhisher?style=for-the-badge&color=magenta">
+   <img src="https://img.shields.io/github/stars/Augustine Tilo/VidPhisher?style=for-the-badge&color=magenta">
   <img src="https://img.shields.io/github/forks/KasRoudra/VidPhisher?color=cyan&style=for-the-badge&color=purple">
   <img src="https://img.shields.io/github/issues/KasRoudra/VidPhisher?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/license/KasRoudra/VidPhisher?style=for-the-badge&color=blue">
 <br>
-    <img src="https://img.shields.io/badge/Author-augustine-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Author-Augustine Tilo-green?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
