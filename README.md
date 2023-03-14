@@ -1,15 +1,15 @@
 <h2 align="center"><u>VidPhisher</u></h2>
 
-![Hack anyone's camera and get videos](https://github.com/KasRoudra/VidPhisher/raw/main/files/banner.png)
+![Hack anyone's camera and get videos](https://github.com/crithinker/VidPhisher/raw/main/files/banner.png)
 
 <h4 align="center"> Hack anyone's camera and get videos!</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.2-blue?style=for-the-badge&color=blue">
-   <img src="https://img.shields.io/github/stars/Augustine Tilo/VidPhisher?style=for-the-badge&color=magenta">
-  <img src="https://img.shields.io/github/forks/KasRoudra/VidPhisher?color=cyan&style=for-the-badge&color=purple">
-  <img src="https://img.shields.io/github/issues/KasRoudra/VidPhisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/license/KasRoudra/VidPhisher?style=for-the-badge&color=blue">
+   <img src="https://img.shields.io/github/stars/crithinker/VidPhisher?style=for-the-badge&color=magenta">
+  <img src="https://img.shields.io/github/forks/crithinker/VidPhisher?color=cyan&style=for-the-badge&color=purple">
+  <img src="https://img.shields.io/github/issues/crithinker/VidPhisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/crithinker/VidPhisher?style=for-the-badge&color=blue">
 <br>
     <img src="https://img.shields.io/badge/Author-Augustine Tilo-green?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
@@ -28,7 +28,7 @@ This project is now a part of [MaxPhisher](https://github.com/KasRoudra/MaxPhish
 
 ### [+] Installation
 
-- `git clone https://github.com/KasRoudra/VidPhisher`
+- `git clone https://github.com/crithinker/VidPhisher`
 - `cd VidPhisher`
 
 For termux, use additional command `termux-setup-storage`
@@ -38,13 +38,13 @@ For termux, use additional command `termux-setup-storage`
 ##### Or Run Directly
 
 ```
-wget https://raw.githubusercontent.com/KasRoudra/VidPhisher/main/vp.sh && bash vp.sh
+wget https://raw.githubusercontent.com/crithinker/VidPhisher/main/vp.sh && bash vp.sh
 ```
 
 ### Docker
 
- - `sudo docker pull kasroudra/vidphisher`
- - `sudo docker run --rm -it --name vidphisher kasroudra/vidphisher`
+ - `sudo docker pull crithinker/vidphisher`
+ - `sudo docker run --rm -it --name vidphisher crithinker/vidphisher`
  - `sudo docker cp vidphisher:/VidPhisher vidfiles` [Run this on another terminal to copy received video/audio from docker to vidfiles folder keeping container open] 
 
 
@@ -75,7 +75,7 @@ Options:
 
 ### [+] Preview
 
-![Hack anyone's camera and get videos](https://github.com/KasRoudra/VidPhisher/raw/main/files/vp.gif)
+![Hack anyone's camera and get videos](https://github.com/crithinker/VidPhisher/raw/main/files/vp.gif)
 
 ### [+] Depenencies
 
@@ -100,11 +100,10 @@ Thanks to <a href="https://github.com/Techchipnet/camphish">Techchip</a> and <a 
 
 ## [~] Find Me on :
 
-- [![Github](https://img.shields.io/badge/Github-KasRoudra-green?style=for-the-badge&logo=github)](https://github.com/KasRoudra)
+- [![Github](https://img.shields.io/badge/Github-AugustineTilo-green?style=for-the-badge&logo=github)](https://github.com/crithinker)
 
-- [![Gmail](https://img.shields.io/badge/Gmail-KasRoudra-green?style=for-the-badge&logo=gmail)](mailto:kasroudrakrd@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-AugustineTilo-green?style=for-the-badge&logo=gmail)](mailto:lifeofacriticalthinker@gmail.com
+)
 
-- [![Facebook](https://img.shields.io/badge/Facebook-KasRoudra-green?style=for-the-badge&logo=facebook)](https://facebook.com/KasRoudra)
 
-- [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-green?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
 
