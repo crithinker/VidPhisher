@@ -1,6 +1,6 @@
 <h2 align="center"><u>VidPhisher</u></h2>
 
-![Hack anyone's camera and get videos](https://github.com/crithinker/VidPhisher/raw/main/files/banner.png)
+![Hack anyone's camera and get videos](https://github.com/KasRoudra/VidPhisher/raw/main/files/banner.png)
 
 <h4 align="center"> Hack anyone's camera and get videos!</h4>
 
