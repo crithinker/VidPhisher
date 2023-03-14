@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/issues/KasRoudra/VidPhisher?color=red&style=for-the-badge">
   <img src="https://img.shields.io/github/license/KasRoudra/VidPhisher?style=for-the-badge&color=blue">
 <br>
-    <img src="https://img.shields.io/badge/Author-KasRoudra-green?style=flat-square">
+    <img src="https://img.shields.io/badge/Author-augustine-green?style=flat-square">
     <img src="https://img.shields.io/badge/Open%20Source-Yes-orange?style=flat-square">
     <img src="https://img.shields.io/badge/Maintained-Yes-cyan?style=flat-square">
     <img src="https://img.shields.io/badge/Written%20In-Shell-blue?style=flat-square">
