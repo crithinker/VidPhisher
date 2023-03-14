@@ -124,7 +124,7 @@ ${cyan} \ \ / /| |/ _' | |_) | '_ \| / __| '_ \ / _ \ '__|
 ${purple}  \ V / | | (_| |  __/| | | | \__ \ | | |  __/ | 
 ${yellow}   \_/  |_|\__,_|_|   |_| |_|_|___/_| |_|\___|_| 
 ${red}                                          [v${version}] 
-${blue}                                  [By KasRoudra] 
+${blue}                                  [By Augustine] 
 "
 
 ngrok_help="
